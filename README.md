@@ -1,1 +1,1 @@
-# The place where I try to build a site while learning GitHub
+# The place where I build a site while learning GitHub
