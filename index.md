@@ -1,5 +1,5 @@
 ---
-title: Welcome-to-my-learning-place
+title: Welcome to my learning place
 date: 2022-11-14
 ---
 
