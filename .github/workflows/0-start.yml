@@ -59,7 +59,7 @@ jobs:
 
           echo "Make a commit"
           git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.email github-actions at github.com
           git add _config.yml index.md
           git commit --message="Create config and homepages files"
 
