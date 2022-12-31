@@ -1,5 +1,4 @@
 title: Fun learning site for me
-author: Adam
 description: Playing around with code 
-theme: minima
+remote_theme: pages-themes/hacker@v0.2.0
 
