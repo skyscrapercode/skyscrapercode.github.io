@@ -1,6 +1,6 @@
 ---
 title: Welcome to my learning site
-date: 2022-12-30
+date: 2023-01-01
 ---
 
-# It's almost next year 
+# Happy new year!
