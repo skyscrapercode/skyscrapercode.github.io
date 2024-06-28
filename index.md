@@ -1,6 +1,6 @@
 ---
-title: Welcome to my learning site
-date: 2023-01-01
+Title: Welcome to my simple site
+Date: 2024-01-01
 ---
 
 # Happy new year!
